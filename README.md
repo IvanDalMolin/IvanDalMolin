@@ -10,3 +10,9 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/IvanDalMolin/IvanDalMolin)
+
+### :zap: Actividad reciente
+
+<!--start_section:activity-->
+
+<!--end_section:activity-->
